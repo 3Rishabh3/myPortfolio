@@ -350,14 +350,14 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .client-box:hover p{
-        color: var(--headingColor);
+    color: var(--headingColor);
 }    
 
 .client-box:hover{
-	transform: translateY(-10px);
-	box-shadow: 5px 10px 30px rgba(0,0,0,0.1);
+    transform: translateY(-10px);
+    box-shadow: 5px 10px 30px rgba(0,0,0,0.1);
     background-color: var(--darkColor);
-	transition: all ease 0.2s;
+    transition: all ease 0.2s;
 }
 /*Testimonial ends here*/
 
@@ -425,8 +425,8 @@ footer .fab{
     }
     
     #recentProjects div{
-   padding-left: 10px;
-   padding-right: 10px;
+   	padding-left: 10px;
+   	padding-right: 10px;
 }
 }
 
